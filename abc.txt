@@ -1,2 +1,14 @@
-Thisis Text File
-## satya
+ ## Create Folder in Drive and Open VS-CODE
+	Indianize git 
+	Source Code Management(Git)-we can Maintain Different Version of Code
+	If you add code ,commit code git  Generate  Unic Hash-Key  
+	Open New-Terminal-select 
+	Different -terminals Kali-Linux (WSL),azure -Cloud shell(bash), Java Script Debugging Terminal 
+	Git - Downloading Package (git-scm.com)-Standard Alone Installer 
+	If you download Git bash will come (if you didn’t install Git bash not showing )
+	Don’t use power shell 
+	Use Command Prompt – and For Linux Git bash
+	Create README.md File 
+	$ git init Initialized empty Git repository in D:/fsdsmasterendtoend/.git/ 
+	Go to git hub- create Repository- Git init -createfile -git add abc.txt(File name ) or git add .
+    git status – commit-push source -Control -commit and push and give name  -This is Standard Process ,you want to   add  + symbol should press 
